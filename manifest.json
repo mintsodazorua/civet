@@ -21,7 +21,7 @@
     "english": {
       "UI_HITMAN_CAMPAIGN_DEMO": "Hitman Campaign Demo",
       "UI_STORY": "Story",
-      "UI_BANK_DESC": "I need to take out Target McTargetface.",
+      "UI_BANK_DESC": "I dont need to take out Target McTargetface.",
       "UI_BANK_TITLE": "Bank mission",
       "UI_STARTING_LOCATION_BANK_CEO_OFFICE_DEFAULT_NAME": "CEO's Office",
       "UI_STARTING_LOCATION_BANK_CEO_OFFICE_DESC": "47 has made his way to the CEO's office."
