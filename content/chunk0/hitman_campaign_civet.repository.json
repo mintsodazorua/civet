@@ -1,1 +1,8 @@
-{"edbe01ee-3351-4f50-9648-50c9490d7966":{"Image":"images/entrances/bank/bank_entrance_ceo.jpg","Name_LOC":"UI_STARTING_LOCATION_CIVET_STAIRWELL_DEFAULT_NAME","Name":"Civet Stairwell Starting Location","Description":"UI_STARTING_LOCATION_CIVET_STAIRWELL_DESC"}}
+{
+	"edbe01ee-3351-4f50-9648-50c9490d7966": {
+		"Image": "images/entrances/bank/bank_entrance_ceo.jpg",
+		"Name_LOC": "UI_STARTING_LOCATION_CIVET_STAIRWELL_DEFAULT_NAME",
+		"Name": "Civet Stairwell Starting Location",
+		"Description": "UI_STARTING_LOCATION_CIVET_STAIRWELL_DESC"
+	}
+}
