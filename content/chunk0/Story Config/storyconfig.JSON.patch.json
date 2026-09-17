@@ -7,7 +7,7 @@
 			"path": "/0",
 			"value": {
 				"Name": "UI_HITMAN_CAMPAIGN_DEMO",
-				"Image": "",
+				"Image": "campaign_demo_title.jpg",
 				"Type": "mission",
 				"Properties": {
 					"BackgroundImage": "images/campaign_demo/campaign_demo_tile.jpg"
@@ -15,7 +15,7 @@
 				"StoryData": [
 					{
 						"Type": "Mission",
-						"Id": "[INSERT GENERATED UUID HERE]",
+						"Id": "2bdad5bc-a0e3-4568-8679-f8b8a838a78d",
 						"_comment": "The bank mission for the Hitman Campaign Demo"
 					}
 				]

@@ -1,0 +1,34 @@
+{
+	"Data": {
+		"EnableSaving": true,
+		"Objectives": [],
+		"GameDifficulties": [
+			{ "Difficulty": "easy", "Bricks": [] },
+			{ "Difficulty": "normal", "Bricks": [] },
+			{ "Difficulty": "hard", "Bricks": [] }
+		],
+		"Bricks": [],
+		"DevOnlyBricks": [],
+		"Entrances": ["3d143ed4-faa1-4388-a604-aff47a416039"],
+		"GameChangers": [],
+		"GameChangerReferences": []
+	},
+	"Metadata": {
+		"Id": "2bdad5bc-a0e3-4568-8679-f8b8a838a78d",
+		"IsPublished": true,
+		"Title": "UI_BANK_TITLE",
+		"Description": "UI_BANK_DESC",
+		"CodeName_Hint": "Chongqing",
+		"ScenePath": "assembly:/_pro/scenes/missions/hitman_campaign_demo/mission_bank/scene_bank.entity",
+		"TileImage": "images/campaign_demo/bank/tile.jpg",
+		"Location": "LOCATION_WET_RAT",
+		"LastUpdate": "2025-05-02T19:44:00.000Z",
+		"CreationTimestamp": "2025-05-02T19:44:00.000Z",
+		"CreatorUserId": "104f0809-dcad-430b-b59c-d63966cd25f8",
+		"Type": "mission",
+		"Release": "3.0.0",
+		"Entitlements": ["H3"]
+	},
+	"UserData": {},
+	"SMF": {}
+}

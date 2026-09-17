@@ -1,0 +1,84 @@
+{
+    "scene": "assembly:/_pro/scenes/missions/hitman_campaign_demo/mission_bank/scene_bank.entity",
+    "actors": [],
+    "entrances": [
+        {
+            "id": "3d143ed4-faa1-4388-a604-aff47a416039 ",
+            "isDefaultSpawn": true,
+            "isPreferredSpawn": true,
+            "WorldTransform": "1, 0, 0, 0, 1, 0, 0, 0, 1, -173.9, 159.8794, 89"
+        }
+    ],
+    "AgencyPickups": [
+        {
+            "id": "acca901a-c33e-4462-b422-8c3bd81f4efa",
+            "WorldTransform": "0.995557, -0.094161, 0, 0.094161, 0.995557, 0, 0, 0, 1, -29.17535, 49.1258, 117.7629",
+            "AllowOutfits": false,
+            "AllowLargerItems": false,
+            "UnlockedByDefault": false
+        },
+        {
+            "id": "ff66b29c-c3c2-4aec-8b5c-c4e780f42a8a",
+            "WorldTransform": "0.99844, -0.055835, 0, 0.055835, 0.99844, 0, 0, 0, 1, -93.22765, 25.31197, 101.3433",
+            "AllowOutfits": false,
+            "AllowLargerItems": false,
+            "UnlockedByDefault": false
+        },
+        {
+            "id": "50be49a2-c366-443d-bdaa-6de2e11eefbe",
+            "WorldTransform": "-0.030437, 0.999537, 0, -0.999537, -0.030437, 0, 0, 0, 1, -10.54663, 33.62014, 85.84619",
+            "AllowOutfits": false,
+            "AllowLargerItems": false,
+            "UnlockedByDefault": false
+        },
+        {
+            "id": "20701325-000b-408a-99ca-17c9d87a221b",
+            "WorldTransform": "0.995503, -0.09473, 0, 0.09473, 0.995503, 0, 0, 0, 1, -62.65693, 21.49682, 89.84628",
+            "AllowOutfits": false,
+            "AllowLargerItems": false,
+            "UnlockedByDefault": false
+        },
+        {
+            "id": "e1658358-1b89-4dc2-bb42-3f046faf5813",
+            "WorldTransform": "0.999521, 0.030947, 0, -0.030947, 0.999521, 0, 0, 0, 1, -126.583, 114.4239, 102.338",
+            "AllowOutfits": false,
+            "AllowLargerItems": false,
+            "UnlockedByDefault": false
+        },
+        {
+            "id": "2bc67e36-180c-41b6-bdf4-01b91d53cf29",
+            "WorldTransform": "0.809182, -0.587558, 0, 0, 0, 1, -0.587558, -0.809182, 0, -32.39404, 83.87108, 97.18317",
+            "AllowOutfits": true,
+            "AllowLargerItems": true,
+            "UnlockedByDefault": false
+        },
+        {
+            "id": "7b719d9b-13cd-48c7-bbff-c3809d01d39b",
+            "WorldTransform": "1, 0, 0, 0, 0, 1, 0, -1, 0, -74.43784, 92.68437, 101.1942",
+            "AllowOutfits": true,
+            "AllowLargerItems": true,
+            "UnlockedByDefault": false
+        },
+        {
+            "id": "c3b730f6-e402-4a2f-8fc2-4f01b30ced0f",
+            "WorldTransform": "-0.88871, 0.458471, 0, -0.458471, -0.88871, 0, 0, 0, 1, -19.56903, 127.1266, 101.0111",
+            "AllowOutfits": true,
+            "AllowLargerItems": true,
+            "UnlockedByDefault": false
+        },
+        {
+            "id": "f0cd0184-8d7c-4b5f-8c5e-94177f8bd9ff",
+            "WorldTransform": "-0.998231, 0.059453, 0, 0, 0, 1, 0.059453, 0.998231, 0, -37.26632, 118.4988, 109.2766",
+            "AllowOutfits": true,
+            "AllowLargerItems": true,
+            "UnlockedByDefault": false
+        },
+        {
+            "id": "5e0df81c-e0a8-4061-a9da-d298e9bd8972",
+            "WorldTransform": "-0.939724, -0.341933, 0, 0.341933, -0.939724, 0, 0, 0, 1, -10.02932, 62.24215, 88.87395",
+            "AllowOutfits": true,
+            "AllowLargerItems": true,
+            "UnlockedByDefault": false
+        }
+    ]
+}

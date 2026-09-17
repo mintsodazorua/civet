@@ -7,13 +7,13 @@
   "frameworkVersion": "2.33.8",
   "version": "0.1.0",
   "blobsFolders": ["blobs"],
-  "contentFolders": ["shared"],
+  "contentFolders": ["content"],
   "dependencies": [
   ],
   "packagedefinition": [
     {
       "type": "entity",
-      "partition": "greedy",
+      "partition": "wet",
       "path": "[assembly:/_pro/scenes/missions/hitman_campaign_demo/mission_bank/scene_bank.entity].entitytemplate"
     }
   ],
@@ -23,8 +23,8 @@
       "UI_STORY": "Story",
       "UI_BANK_DESC": "I dont need to take out Target McTargetface.",
       "UI_BANK_TITLE": "Bank mission",
-      "UI_STARTING_LOCATION_BANK_CEO_OFFICE_DEFAULT_NAME": "CEO's Office",
-      "UI_STARTING_LOCATION_BANK_CEO_OFFICE_DESC": "47 has made his way to the CEO's office."
+      "UI_STARTING_LOCATION_CIVET_STAIRWELL_DEFAULT_NAME": "Stairwell",
+      "UI_STARTING_CIVET_STAIRWELL_DESC": "47 has arrived in Chongqing and is standing near the main plaza stairwell."
     }
   },
   "updateCheck": "https://github.com/mintsodazorua/civet"
