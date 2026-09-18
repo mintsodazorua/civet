@@ -1,1 +1,7 @@
-{"customPaths":["[assembly:/_pro/scenes/bricks/menumapsetup_hitman_campaign_demo.brick].pc_entitytype","[assembly:/_pro/scenes/bricks/menumapsetup_hitman_campaign_demo.brick].pc_entityblueprint","(planning contract) wet civet"]}
+{
+	"customPaths": [
+		"[assembly:/_pro/scenes/bricks/menumapsetup_hitman_campaign_demo.brick].pc_entitytype",
+		"[assembly:/_pro/scenes/bricks/menumapsetup_hitman_campaign_demo.brick].pc_entityblueprint",
+		"(planning contract) wet civet"
+	]
+}

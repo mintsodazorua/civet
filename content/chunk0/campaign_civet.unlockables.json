@@ -1,1 +1,19 @@
-{"STARTING_LOCATION_CIVET_STAIRWELL":{"Guid":"3d143ed4-faa1-4388-a604-aff47a416039","Type":"access","Subtype":"startinglocation","RMTPrice":-1,"GamePrice":-1,"IsPurchasable":false,"IsPublished":true,"IsDroppable":false,"Capabilities":[],"Qualities":{},"Properties":{"Location":"LOCATION_WET_RAT","RepositoryId":"edbe01ee-3351-4f50-9648-50c9490d7966","UnlockOrder":3}}}
+{
+	"STARTING_LOCATION_CIVET_STAIRWELL": {
+		"Guid": "3d143ed4-faa1-4388-a604-aff47a416039",
+		"Type": "access",
+		"Subtype": "startinglocation",
+		"RMTPrice": -1,
+		"GamePrice": -1,
+		"IsPurchasable": false,
+		"IsPublished": true,
+		"IsDroppable": false,
+		"Capabilities": [],
+		"Qualities": {},
+		"Properties": {
+			"Location": "LOCATION_WET_RAT",
+			"RepositoryId": "edbe01ee-3351-4f50-9648-50c9490d7966",
+			"UnlockOrder": 3
+		}
+	}
+}

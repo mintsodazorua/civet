@@ -1,31 +1,30 @@
 {
-  "$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-  "id": "HitmanModder.HitmanCampaignDemo",
-  "name": "Civet",
-  "description": "This mod is a Hitman Campaign Demo mod. Chongqing mission mod.",
-  "authors": ["MintSodaZorua"],
-  "frameworkVersion": "2.33.8",
-  "version": "0.1.0",
-  "blobsFolders": ["blobs"],
-  "contentFolders": ["content"],
-  "dependencies": [
-  ],
-  "packagedefinition": [
-    {
-      "type": "entity",
-      "partition": "wet",
-      "path": "[assembly:/_pro/scenes/missions/hitman_campaign_demo/mission_bank/scene_bank.entity].entitytemplate"
-    }
-  ],
-  "localisation": {
-    "english": {
-      "UI_HITMAN_CAMPAIGN_DEMO": "Hitman Campaign Demo",
-      "UI_STORY": "Story",
-      "UI_BANK_DESC": "I dont need to take out Target McTargetface.",
-      "UI_BANK_TITLE": "Bank mission",
-      "UI_STARTING_LOCATION_CIVET_STAIRWELL_DEFAULT_NAME": "Stairwell",
-      "UI_STARTING_CIVET_STAIRWELL_DESC": "47 has arrived in Chongqing and is standing near the main plaza stairwell."
-    }
-  },
-  "updateCheck": "https://github.com/mintsodazorua/civet"
+	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
+	"id": "HitmanModder.HitmanCampaignDemo",
+	"name": "Civet",
+	"description": "This mod is a Hitman Campaign Demo mod. Chongqing mission mod.",
+	"authors": ["MintSodaZorua"],
+	"frameworkVersion": "2.33.42",
+	"version": "0.3.0",
+	"blobsFolders": ["blobs"],
+	"contentFolders": ["content"],
+	"dependencies": [],
+	"packagedefinition": [
+		{
+			"type": "entity",
+			"partition": "wet",
+			"path": "[assembly:/_pro/scenes/missions/hitman_campaign_demo/mission_bank/scene_bank.entity].entitytemplate"
+		}
+	],
+	"localisation": {
+		"english": {
+			"UI_HITMAN_CAMPAIGN_DEMO": "Hitman Campaign Demo",
+			"UI_STORY": "Story",
+			"UI_BANK_DESC": "I dont need to take out Target McTargetface.",
+			"UI_BANK_TITLE": "Bank mission",
+			"UI_STARTING_LOCATION_CIVET_STAIRWELL_DEFAULT_NAME": "Stairwell",
+			"UI_STARTING_CIVET_STAIRWELL_DESC": "47 has arrived in Chongqing and is standing near the main plaza stairwell."
+		}
+	},
+	"updateCheck": "https://github.com/mintsodazorua/civet/releases/latest/download/updates.json"
 }
