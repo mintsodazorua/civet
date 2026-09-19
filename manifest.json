@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"id": "HitmanModder.HitmanCampaignDemo",
+	"id": "MintSodaZorua.WetCivet",
 	"name": "Civet",
 	"description": "This mod is a Hitman Campaign Demo mod. Chongqing mission mod.",
 	"authors": ["MintSodaZorua"],
