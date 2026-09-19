@@ -7,13 +7,13 @@
 	"frameworkVersion": "2.33.42",
 	"version": "0.3.0",
 	"blobsFolders": ["blobs"],
-	"contentFolders": ["content"],
+	"contentFolders": ["content, bank"],
 	"dependencies": [],
 	"packagedefinition": [
 		{
 			"type": "entity",
 			"partition": "wet",
-			"path": "[assembly:/_pro/scenes/missions/hitman_campaign_demo/mission_bank/scene_bank.entity].entitytemplate"
+			"path": "[assembly:/_pro/scenes/missions/hitman_campaign_demo/mission_civet/scene_civet.entity].entitytemplate"
 		}
 	],
 	"localisation": {

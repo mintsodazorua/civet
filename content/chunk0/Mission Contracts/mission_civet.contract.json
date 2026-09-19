@@ -19,7 +19,7 @@
 		"Title": "UI_BANK_TITLE",
 		"Description": "UI_BANK_DESC",
 		"CodeName_Hint": "Chongqing",
-		"ScenePath": "assembly:/_pro/scenes/missions/hitman_campaign_demo/mission_bank/scene_bank.entity",
+		"ScenePath": "assembly:/_pro/scenes/missions/hitman_campaign_demo/mission_civet/scene_civet.entity",
 		"TileImage": "images/campaign_demo/bank/tile.jpg",
 		"Location": "LOCATION_WET_RAT",
 		"LastUpdate": "2025-05-02T19:44:00.000Z",

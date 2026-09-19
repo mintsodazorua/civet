@@ -1,0 +1,25 @@
+{
+	"tempHash": "003A9BBD2F9485F7",
+	"tbluHash": "009E4B7DCE22E5E8",
+	"rootEntity": "fffffffffffffffe",
+	"entities": {
+		"fffffffffffffffe": {
+			"parent": null,
+			"name": "Scene",
+			"factory": "[modules:/zspatialentity.class].pc_entitytype",
+			"blueprint": "[modules:/zspatialentity.class].pc_entityblueprint"
+		}
+	},
+	"propertyOverrides": [],
+	"overrideDeletes": [],
+	"pinConnectionOverrides": [],
+	"pinConnectionOverrideDeletes": [],
+	"externalScenes": [
+		" [assembly:/_pro/scenes/missions/hitman_campaign_demo/mission_civet/scenario_civet.brick].pc_entitytype"
+	],
+	"subType": "scene",
+	"quickEntityVersion": 3.1,
+	"extraFactoryDependencies": [],
+	"extraBlueprintDependencies": [],
+	"comments": []
+}
