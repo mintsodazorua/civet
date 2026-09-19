@@ -7,7 +7,7 @@
 	"frameworkVersion": "2.33.42",
 	"version": "0.4.0",
 	"blobsFolders": ["blobs"],
-	"contentFolders": ["content, bank"],
+	"contentFolders": ["content", "bank"],
 	"dependencies": [],
 	"packagedefinition": [
 		{
