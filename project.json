@@ -1,13 +1,1 @@
-{
-	"customPaths": [
-		"[assembly:/_pro/scenes/bricks/menumapsetup_hitman_campaign_demo.brick].pc_entitytype",
-		"[assembly:/_pro/scenes/bricks/menumapsetup_hitman_campaign_demo.brick].pc_entityblueprint",
-		"(planning contract) wet civet",
-		"[assembly:/_pro/scenes/missions/hitman_campaign_demo/mission_bank/scene_civet.entity].pc_entitytemplate",
-		"[assembly:/_pro/scenes/missions/hitman_campaign_demo/mission_civet/scene_civet.entity].pc_entitytemplate",
-		"[assembly:/_pro/scenes/missions/hitman_campaign_demo/mission_civet/scene_civet.entity].pc_entityblueprint",
-		" [assembly:/_pro/scenes/missions/hitman_campaign_demo/mission_bank/scenario_bank.brick].pc_entitytype",
-		" [assembly:/_pro/scenes/missions/hitman_campaign_demo/mission_civet/scenario_civet.brick].pc_entitytype",
-		"[assembly:/_pro/scenes/missions/hitman_campaign_demo/mission_civet/scenario_civet.brick].pc_blueprint"
-	]
-}
+{"customPaths":["[assembly:/_pro/scenes/bricks/menumapsetup_hitman_campaign_demo.brick].pc_entitytype","[assembly:/_pro/scenes/bricks/menumapsetup_hitman_campaign_demo.brick].pc_entityblueprint","(planning contract) wet civet","[assembly:/_pro/scenes/missions/hitman_campaign_demo/mission_bank/scene_civet.entity].pc_entitytemplate","[assembly:/_pro/scenes/missions/hitman_campaign_demo/mission_civet/scene_civet.entity].pc_entitytemplate","[assembly:/_pro/scenes/missions/hitman_campaign_demo/mission_civet/scene_civet.entity].pc_entityblueprint"," [assembly:/_pro/scenes/missions/hitman_campaign_demo/mission_bank/scenario_bank.brick].pc_entitytype"," [assembly:/_pro/scenes/missions/hitman_campaign_demo/mission_civet/scenario_civet.brick].pc_entitytype","[assembly:/_pro/scenes/missions/hitman_campaign_demo/mission_civet/scenario_civet.brick].pc_blueprint","[assembly:/_pro/scenes/missions/hitman_campaign_demo/mission_civet/scenario_civet.brick].pc_entityblueprint"]}

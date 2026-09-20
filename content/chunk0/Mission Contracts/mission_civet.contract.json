@@ -27,7 +27,7 @@
 		"CreatorUserId": "104f0809-dcad-430b-b59c-d63966cd25f8",
 		"Type": "mission",
 		"Release": "3.0.0",
-		"Entitlements": ["LOCATION_RAT"]
+		"Entitlements": ["LOCATION_WET"]
 	},
 	"UserData": {},
 	"SMF": {}
